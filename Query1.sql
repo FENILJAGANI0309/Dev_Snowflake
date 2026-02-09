@@ -1,1 +1,1 @@
-select * from EMPLOYEES;
+select * from LEARNING_DB.PUBLIC.EMPLOYEES;
