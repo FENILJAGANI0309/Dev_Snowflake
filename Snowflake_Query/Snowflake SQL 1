@@ -1,0 +1,1 @@
+select * from LEARNING_DB.PUBLIC.EMPLOYEES;
